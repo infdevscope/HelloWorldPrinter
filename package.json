@@ -4,7 +4,7 @@
   "description": "C++ library that prints 'hello world 1326!' when 1326 is entered",
   "main": "include/helloprinter.h",
   "keywords": ["cpp", "library", "hello-world"],
-  "author": "Your Name",
+  "author": "infdevscope",
   "license": "MIT",
   "repository": {
     "type": "git",
