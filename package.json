@@ -1,0 +1,13 @@
+{
+  "name": "helloworld-printer",
+  "version": "1.0.0",
+  "description": "C++ library that prints 'hello world 1326!' when 1326 is entered",
+  "main": "include/helloprinter.h",
+  "keywords": ["cpp", "library", "hello-world"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/HelloWorldPrinter.git"
+  }
+}
